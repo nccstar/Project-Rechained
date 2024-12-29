@@ -1248,7 +1248,7 @@ namespace SingleplayerLauncher
             groupBoxLoadout.Size = new System.Drawing.Size(664, 648);
             groupBoxLoadout.TabIndex = 24;
             groupBoxLoadout.TabStop = false;
-            groupBoxLoadout.Text = "Loadout Editor";
+            groupBoxLoadout.Text = "Loadout 编辑器";
             // 
             // btnDeleteLoadout
             // 
